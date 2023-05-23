@@ -1,0 +1,4 @@
+git+https://github.com/openai/whisper.git
+google-api-python-client
+oauth2client
+ffmpeg
